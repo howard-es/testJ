@@ -7,8 +7,8 @@ public class testJMain {
 		System.out.println("heyhey");
 		System.out.println("heyheyheyhey");
 		System.out.println("hello");
-		System.out.println("hello2");
-		System.out.println("hello3");
+		System.out.println("三田線にようこそ！");
+		
 
 	}
 
