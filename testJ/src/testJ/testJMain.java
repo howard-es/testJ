@@ -7,6 +7,7 @@ public class testJMain {
 		System.out.println("heyhey");
 		System.out.println("heyheyheyhey");
 		System.out.println("hello");
+		System.out.println("hello2");
 
 	}
 
